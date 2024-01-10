@@ -12,6 +12,7 @@ import org.springframework.context.annotation.Bean;
 @EnableEurekaClient
 public class InventoryServiceApplication {
 
+//     run application
     public static void main(String[] args) {
         SpringApplication.run(InventoryServiceApplication.class, args);
     }
